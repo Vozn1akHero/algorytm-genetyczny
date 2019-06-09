@@ -1,0 +1,11 @@
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp2.2\AlgorytmGenetyczny.deps.json
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp2.2\AlgorytmGenetyczny.runtimeconfig.json
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp2.2\AlgorytmGenetyczny.runtimeconfig.dev.json
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp2.2\AlgorytmGenetyczny.dll
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\netcoreapp2.2\AlgorytmGenetyczny.pdb
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.csprojAssemblyReference.cache
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.csproj.CoreCompileInputs.cache
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.AssemblyInfoInputs.cache
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.AssemblyInfo.cs
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.dll
+C:\Users\chlenix\source\repos\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\netcoreapp2.2\AlgorytmGenetyczny.pdb
